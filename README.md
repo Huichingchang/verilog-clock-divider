@@ -25,10 +25,6 @@ This project implements a **clock divider** in Verilog. It divides the input clo
 
 Example: If clk is 100MHz and you divide by 4, clk_out becomes 25MHz.
 
-yaml
-複製
-編輯
-
 ---
 
 ## 📷 Waveform
